@@ -1,0 +1,10 @@
+---
+make_azan:
+  module: azan
+  class: MakeAzan
+gf_lamps:
+  module: groundfloorlamps
+  class: GFLamps
+log_devices:
+  module: log_devices
+  class: LogDevices
